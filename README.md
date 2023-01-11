@@ -1,2 +1,2 @@
 # scanfile_win
-scan file
+display the contents of the working directory recursively(optional) showing sub-directories and files
